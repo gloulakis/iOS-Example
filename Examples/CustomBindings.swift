@@ -2,7 +2,7 @@
 //  CustomBindings.swift
 //  Examples
 //
-//  Created by Maris Lagzdins on 19/02/2022.
+//  Created by George Loulakis on 19/02/2022.
 //
 
 import SwiftUI
